@@ -5,10 +5,10 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
+    <img alt="Hanover Courthouse" class="logo" src="./assets/Hanover-Courthouse-Va.webp" width="250" height="250" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Welcome to the Hanover Va Candidate Infomation Page" />
     </div>
   </header>
 
